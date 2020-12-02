@@ -1,4 +1,4 @@
-# 8-ball-puzzle
+# 8-puzzle-game
 Solving 8-ball-puzzle using different path finding algorithms. Which are:
 - Breadth First Search (BFS)
 - Depth First Search (DFS)
