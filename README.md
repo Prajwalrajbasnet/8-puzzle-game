@@ -1,5 +1,5 @@
 # 8-puzzle-game
-Solving 8-ball-puzzle using different path finding algorithms. Which are:
+Solving 8-puzzle problem using different path finding algorithms. Which are:
 - Breadth First Search (BFS)
 - Depth First Search (DFS)
 - Uniform Cost Search (Dijkstra) Algorithm
